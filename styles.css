@@ -275,3 +275,16 @@ body {
 html {
     scroll-behavior: smooth;
 } 
+
+.footer {
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 1px 2px black;
+    background-color: rgb(190, 190, 190);
+}
+
+.footer p {
+    margin: 0;
+}
